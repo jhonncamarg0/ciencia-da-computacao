@@ -1,4 +1,4 @@
-### Certificados Trimestrais Conquistados 📈
+### Trimestres Concluídos 📈
 
 ## 1. Arquitetura e Organização de Computadores
 
