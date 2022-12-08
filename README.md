@@ -2,7 +2,7 @@
 
 ## 1. Arquitetura e Organização de Computadores
 
-![NPM](https://github.com/jhonncamarg0/oracle-next-education/blob/main/Certificados/Alt/000.jpg)
+![NPM](https://github.com/jhonncamarg0/oracle-next-education/blob/main/certificados/faculdade/arquitetura-e-organizacao-de-computadores.jpg)
 
 ##
 
@@ -13,7 +13,7 @@
 
 ## 2. Programming Basics
 
-![NPM](https://github.com/jhonncamarg0/oracle-next-education/blob/main/Certificados/Alt/001.jpg)
+![NPM](https://github.com/jhonncamarg0/oracle-next-education/blob/main/certificados/faculdade/programming-basics.jpg)
 
 ##
 
@@ -24,7 +24,7 @@
 
 ## 3. Object Oriented Developer
 
-![NPM](https://github.com/jhonncamarg0/oracle-next-education/blob/main/Certificados/Alt/002.jpg)
+![NPM](https://github.com/jhonncamarg0/oracle-next-education/blob/main/certificados/faculdade/object-oriented-developer.jpg)
 
 ##
 
